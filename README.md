@@ -1,0 +1,1 @@
+A key logger is the action of recording the keys being typed on a keyboard, and storing the data. This is mainly use to steal passwords or other sensitive information.  Keylogger software is also available for use on smartphones, such as the Apple iPhone and Android devices.
